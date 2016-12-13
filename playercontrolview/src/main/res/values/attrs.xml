@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlayerControlView">
+        <attr name="pcv_show_timeout_ms" format="integer" />
+        <attr name="pcv_fast_rewind_ms" format="integer" />
+        <attr name="pcv_fast_forward_ms" format="integer" />
+        <attr name="pcv_always_show" format="boolean" />
+    </declare-styleable>
+</resources>
