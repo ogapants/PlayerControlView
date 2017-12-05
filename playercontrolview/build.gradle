@@ -36,4 +36,5 @@ publish {
     publishVersion = '1.0.1'
     desc = 'This library provides easily customizable MediaController for Android'
     website = 'https://github.com/ogapants/PlayerControlView'
+    licences = ['Apache-2.0']
 }
