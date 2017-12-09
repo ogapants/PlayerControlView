@@ -27,22 +27,11 @@ This library provides easily customizable [MediaController](https://developer.an
 ExoPlayer2.x is not supported, please use [PlaybackControlView](https://github.com/google/ExoPlayer/blob/release-v2/library/src/main/java/com/google/android/exoplayer2/ui/PlaybackControlView.java) if needed.
 
 ## Install
-Add it in your root build.gradle at the end of repositories:
-
-```groovy
-allprojects {
-	repositories {
-		...
-		maven { url 'https://jitpack.io' }
-	}
-}
-```
-
-And add it in your app module build gradle.
+Add it in your app module build gradle.
 
 ```groovy
 dependencies {
-    compile 'com.github.ogapants:PlayerControlView:1.0.0'
+    compile 'com.github.ogapants:PlayerControlView:1.0.1'
 }
 ```
 
