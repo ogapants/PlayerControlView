@@ -2,9 +2,10 @@ package com.github.ogapants.playercontrolview.sample.legacy;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.MediaController;
 import android.widget.VideoView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.github.ogapants.playercontrolview.sample.R;
 

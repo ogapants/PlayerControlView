@@ -2,8 +2,9 @@ package com.github.ogapants.playercontrolview.sample;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.VideoView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.github.ogapants.playercontrolview.PlayerControlView;
 
