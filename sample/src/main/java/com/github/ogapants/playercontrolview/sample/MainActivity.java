@@ -3,12 +3,13 @@ package com.github.ogapants.playercontrolview.sample;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.MediaController;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.github.ogapants.playercontrolview.PlayerControlView;
 import com.github.ogapants.playercontrolview.sample.legacy.McExoPlayerActivity;

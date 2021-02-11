@@ -2,9 +2,10 @@ package com.github.ogapants.playercontrolview;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.widget.AppCompatImageButton;
 import android.util.AttributeSet;
+
+import androidx.appcompat.widget.AppCompatImageButton;
+import androidx.core.content.ContextCompat;
 
 public class PausePlayButton extends AppCompatImageButton {
 

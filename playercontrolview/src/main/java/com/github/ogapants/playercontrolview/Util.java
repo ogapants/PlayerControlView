@@ -4,7 +4,8 @@ import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.StateListDrawable;
-import android.support.annotation.ColorInt;
+
+import androidx.annotation.ColorInt;
 
 class Util {
 
